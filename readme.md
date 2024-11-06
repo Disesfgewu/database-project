@@ -18,8 +18,8 @@ project-root/
 │   ├── order.js              # ORDER_ 表的操作函式
 │   └── order_product.js      # ORDER_PRODUCT 表的操作函式
 │
-├── demo.js                   # 簡單的示範程式
-└── README.md                 # 本說明文件
+├── app.js                  
+└── README.md                
 ```
 
 ### 1. 匯入模組
