@@ -18,6 +18,7 @@ project-root/
 │   ├── order.js              # ORDER_ 表的操作函式
 │   └── order_product.js      # ORDER_PRODUCT 表的操作函式
 │
+├── CREATE_DATABASE_project.sql
 ├── app.js                  
 └── README.md                
 ```
